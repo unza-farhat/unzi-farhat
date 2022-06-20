@@ -1,4 +1,3 @@
-# Hola! I am Unza
 ![MasterHeader](./C:\Users\PARAS\Downloads.png)
 <h1 align="center">Hi 👋, I'm Unza Farhat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
